@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Studio",
+  "description": "AI-powered web app builder, agent studio, narrative brainstormer, and full-stack interactive code previewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
